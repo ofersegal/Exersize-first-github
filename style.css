@@ -1,5 +1,9 @@
 
 
 h1 {
-    text-align: center
+    text-align: center;
+}
+
+#Student-Owner {
+    color: blue;
 }
